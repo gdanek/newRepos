@@ -1,2 +1,0 @@
-# newRepos
-for competition
